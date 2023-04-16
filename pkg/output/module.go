@@ -25,6 +25,5 @@ func Module() fx.Option {
     if err := p.Start(); err != nil {
       fmt.Println("Error running program:", err)
     }
-    fmt.Println(initModel.chooice.Link)
   }))
 }
