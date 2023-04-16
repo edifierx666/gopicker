@@ -5,9 +5,9 @@ import (
 
   "github.com/charmbracelet/bubbles/list"
   tea "github.com/charmbracelet/bubbletea"
+  "github.com/edifierx666/gopicker/pkg/fetcher"
 
   "go.uber.org/fx"
-  "gopicker/pkg/fetcher"
 )
 
 func Module() fx.Option {

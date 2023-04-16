@@ -17,9 +17,6 @@
     <option name="HIDE_IGNORED_FILES" value="false" />
   </component>
   <component name="GOROOT" path="/usr/local/go" />
-  <component name="GoVcsConfiguration">
-    <option name="GO_FMT" value="false" />
-  </component>
   <component name="GoogleJavaFormatSettings">
     <option name="enabled" value="true" />
   </component>
@@ -352,7 +349,7 @@
         <option name="printErrorStackTraces" value="true" />
         <option name="threads" value="3C" />
         <option name="usePluginRegistry" value="true" />
-        <option name="userSettingsFile" value="/Volumes/MY/mybin/apache-maven-3.6.3/conf/settings.xml" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../../../MY/mybin/apache-maven-3.6.3/conf/settings.xml" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -368,7 +365,6 @@
   <component name="MavenRunner">
     <option name="jreName" value="1.8" />
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" />
   <component name="RemoteRepositoriesConfiguration">
     <remote-repository>
       <option name="id" value="central" />

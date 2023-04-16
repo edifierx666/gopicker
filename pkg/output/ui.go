@@ -5,7 +5,7 @@ import (
 
   "github.com/charmbracelet/bubbles/list"
   "github.com/charmbracelet/lipgloss"
-  "gopicker/pkg/fetcher"
+  "github.com/edifierx666/gopicker/pkg/fetcher"
 
   tea "github.com/charmbracelet/bubbletea"
 )
