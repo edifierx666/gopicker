@@ -14,6 +14,9 @@
 - [x] Quickly search Go packages 
 - [x] Easily get package that you selected
 
+<img width="1078" alt="pic" src="https://user-images.githubusercontent.com/39356752/232316344-60ad8492-1f7f-4dd3-b4d5-2c96e7e736c5.png">
+
+
 ## Usage
 
 ```
