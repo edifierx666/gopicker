@@ -5,11 +5,12 @@ import (
   "fmt"
   "os"
 
+  cfg2 "github.com/edifierx666/gopicker/cfg"
+  "github.com/edifierx666/gopicker/pkg/fetcher"
+  "github.com/edifierx666/gopicker/pkg/output"
+
   "github.com/spf13/cobra"
   "go.uber.org/fx"
-  cfg2 "gopicker/cfg"
-  "gopicker/pkg/fetcher"
-  "gopicker/pkg/output"
 )
 
 var cfg = &cfg2.Cfg{}

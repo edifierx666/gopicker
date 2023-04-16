@@ -9,8 +9,8 @@ import (
   "strings"
 
   "github.com/PuerkitoBio/goquery"
+  "github.com/edifierx666/gopicker/cfg"
   "github.com/go-resty/resty/v2"
-  "gopicker/cfg"
 )
 
 type Fetcher struct {
