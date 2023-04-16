@@ -1,4 +1,4 @@
-module gopicker
+module github.com/edifierx666/gopicker
 
 go 1.20
 
